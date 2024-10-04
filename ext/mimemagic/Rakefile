@@ -48,6 +48,5 @@ task :default do
         DATABASE_PATH="#{mime_database_path}"
       end
       SOURCE
-    )
   end
 end
